@@ -1,0 +1,26 @@
+package bucky;
+import java.util.Scanner;
+
+public class Apples {
+
+	public static void main (String [] args ){
+		
+//		tunaObject.simpleMessage();
+		
+//		tuna tunaObject = new tuna();
+//		
+//		System.out.println("Enter your name here: ");
+//		String name = input.nextLine();
+//		
+//		tunaObject.simpleMessage(name);
+		
+		tuna tunaObject = new tuna();
+		Scanner input = new Scanner(System.in);
+
+
+		
+		
+		
+		
+	}
+}

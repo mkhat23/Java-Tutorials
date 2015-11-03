@@ -1,0 +1,12 @@
+package bucky;
+
+public class Apples {
+
+	public static void main (String [] args ){
+		
+		tuna tunaObject = new tuna();
+		tuna.sim
+		
+		
+	}
+}

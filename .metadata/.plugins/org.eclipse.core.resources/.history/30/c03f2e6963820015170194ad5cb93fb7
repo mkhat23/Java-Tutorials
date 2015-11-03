@@ -1,0 +1,56 @@
+package bucky;
+
+public class Apples {
+
+	public static void main(String[] args) {
+
+		// tunaObject.simpleMessage();
+
+		// tuna tunaObject = new tuna();
+		//
+		// System.out.println("Enter your name here: ");
+		// String name = input.nextLine();
+		//
+		// tunaObject.simpleMessage(name);
+
+		// This was episode 16
+		/*
+		 * Scanner input = new Scanner(System.in); tuna tunaObject = new tuna();
+		 * System.out.println("Enter name of first gf here: "); String temp =
+		 * input.nextLine(); tunaObject.setName(temp); tunaObject.saying();
+		 */
+
+		// Episode 17
+		/*
+		 * tuna tunaObject = new tuna("Chand"); tuna tunaObject2 = new
+		 * tuna("Naina"); tunaObject.saying(); tunaObject2.saying();
+		 */
+
+		// Episode 18 Nested IF statements
+		/*
+		 * int age = 60;
+		 * 
+		 * if(age < 50){ System.out.println("You are young"); } else{
+		 * System.out.println("You are old gg"); if(age > 75){
+		 * System.out.println("you are really old gg"); } else{
+		 * System.out.println("Dont worry you are not that old"); } }
+		 */
+
+		int age = 40;
+
+		if (age > 60) {
+			System.out.println("You are a senior ciizen");
+		} else if (age >= 50) {
+			System.out.println("You are in your 50's");
+		}
+		else if (age >= 40) {
+			System.out.println("You are in your 50's");
+		}
+
+		else {
+			System.out.println("You are a young buck");
+		}
+
+	}
+
+}

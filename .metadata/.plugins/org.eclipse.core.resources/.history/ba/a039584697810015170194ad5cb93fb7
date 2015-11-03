@@ -1,0 +1,14 @@
+package bucky;
+
+public class tuna {
+	
+//	public void simpleMessage(){
+//		
+//		System.out.println("Hello, is it me you are looking for");
+//	}
+	
+	public void simpleMessage(String name){
+		System.out.println("Hello " + name);
+	}
+
+}
